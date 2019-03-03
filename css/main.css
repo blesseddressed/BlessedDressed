@@ -59,7 +59,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #666666;
+		color: #444444;
 		font-family: 'Archivo', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -68,7 +68,7 @@
 	}
 
 	body {
-		background: #666666;
+		background: #fff;
 		overflow: hidden;
 	}
 
