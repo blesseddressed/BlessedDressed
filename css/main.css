@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/BD_painting_large.png") centre centre;
+		background: #348cb2 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large.png") centre centre;
 	/*	background-repeat: repeat-x;*/
 		height: 100%;
 		left: 0;
