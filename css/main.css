@@ -59,11 +59,11 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #888888;
+		color: #ffffff;
 		font-family: 'Archivo', sans-serif;
 		font-size: 12pt;
 		font-weight: 300 !important;
-		letter-spacing: 0em;
+		letter-spacing: -1.25em;
 		line-height: 1.75em;
 	}
 
