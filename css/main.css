@@ -184,10 +184,11 @@
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
+		-o-background-size: cover;
+		background-size: cover;
 	/* Set your background with this */
 
 		background: #ffd3d3 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large_pale.png");
-		background-position: center center;
 	/*	background-repeat: repeat-x;*/
 		width: 100%;
 		left: 0;
