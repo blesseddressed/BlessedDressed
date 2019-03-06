@@ -68,7 +68,7 @@
 	}
 
 	body {
-		background: #ffd3d3;
+		background: #ffe1d6;
 		overflow: hidden;
 	}
 
@@ -188,7 +188,7 @@
 		background-size: cover;
 	/* Set your background with this */
 
-		background: #ffd3d3 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large_pale.png");
+		background: #ffe1d6 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large_pale.png");
 	/*	background-repeat: repeat-x;*/
 		-o-background-size: cover;
 		background-size: cover;
