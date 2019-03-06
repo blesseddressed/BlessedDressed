@@ -770,7 +770,8 @@
 
 		#bg {
 			background-size: 100% auto;
-			width: 100%;
+			width: 1680px;
+			
 		} }
 
 /* Normal */
@@ -852,7 +853,7 @@
 
 		#bg {
 			background-size: 100% auto;
-			width: 100%;
+			width: 1280px;
 		} }
 
 /* Mobile */
@@ -938,7 +939,7 @@
 
 		#bg {
 			background-size: 100% auto;
-			width: 100%;
+			width: 739px;
 		}
 
 	/* Header */
@@ -1036,7 +1037,7 @@
 
 		#bg {
 			background-size: 100% auto;
-			width: 100%;
+			width: 1500px;
 		}
 
 	/* Header */
