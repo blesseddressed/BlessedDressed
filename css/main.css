@@ -188,7 +188,7 @@
 
 		background: #348cb2 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large.png") bottom left;
 	/*	background-repeat: repeat-x;*/
-		height: 1046px;
+		height: 100%;
 		left: 0;
 		opacity: 1;
 		position: 0;
@@ -265,8 +265,8 @@
 	}
 
 	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
+		background-size: 100% auto;
+		width: 100%;
 	}
 
 /* Overlay */
