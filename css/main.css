@@ -190,6 +190,8 @@
 
 		background: #ffd3d3 url("https://raw.githubusercontent.com/blesseddressed/BlessedDressed/master/css/images/BD_painting_large_pale.png");
 	/*	background-repeat: repeat-x;*/
+		-o-background-size: cover;
+		background-size: cover;
 		width: 100%;
 		left: 0;
 		opacity: 1;
