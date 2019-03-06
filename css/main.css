@@ -63,7 +63,7 @@
 		font-family: 'Archivo', sans-serif;
 		font-size: 12pt;
 		font-weight: 300 !important;
-		letter-spacing: -1.25em;
+		letter-spacing: normal;
 		line-height: 1.75em;
 	}
 
