@@ -336,12 +336,12 @@
 /* Main */
 
 	#main {
-		height: 80%;
+		height: 100%;
 		left: 0;
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 80%;
+		width: 100%;
 	}
 
 		#main:before {
